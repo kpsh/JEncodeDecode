@@ -1,4 +1,4 @@
-#### ***JEncodeDecode*** is a tool to encode and decode simple ciphers and whatever morse code is.
+#### ***JEncodeDecode*** is a tool to encode and decode simple ciphers.
 #### Written in Java utilizing Swing/AWT
 ##
-##### More updates coming soon!
+![Imgur Image](https://i.imgur.com/x9srsyX.gif)
